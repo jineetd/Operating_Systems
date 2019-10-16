@@ -1,0 +1,5 @@
+ls	-a	-l
+grep	Finaloutput
+wc	-l
+wc
+wc	-c

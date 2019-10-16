@@ -1,0 +1,29 @@
+
+************1*************
+total 44
+drwxrwxr-x 2 jineet jineet  4096 Oct 16 10:08 .
+drwx------ 4 jineet jineet  4096 Oct 16 10:06 ..
+-rwxr-xr-x 1 jineet jineet 17736 Oct 16 10:07 a.out
+-rw-rw-r-- 1 jineet jineet  6363 Oct 16 05:37 code.c
+-rw-rw-r-- 1 jineet jineet    41 Oct 16 05:37 command.in
+-rw-r--r-- 1 jineet jineet     0 Oct 16 10:08 Finaloutput
+-rw-rw-r-- 1 jineet jineet    10 Oct 16 05:37 input.txt
+-rwxr-xr-x 1 jineet jineet     0 Oct 16 10:08 inter.txt
+
+************2*************
+1 1 2
+
+************3*************
+-rw-r--r-- 1 jineet jineet     0 Oct 16 10:08 Finaloutput
+
+************4*************
+total 48
+drwxrwxr-x 2 jineet jineet  4096 Oct 16 10:08 .
+drwx------ 4 jineet jineet  4096 Oct 16 10:06 ..
+-rwxr-xr-x 1 jineet jineet 17736 Oct 16 10:07 a.out
+-rw-rw-r-- 1 jineet jineet  6363 Oct 16 05:37 code.c
+-rw-rw-r-- 1 jineet jineet    41 Oct 16 05:37 command.in
+-rw-r--r-- 1 jineet jineet     0 Oct 16 10:08 Finaloutput
+-rw-rw-r-- 1 jineet jineet    10 Oct 16 05:37 input.txt
+-rwxr-xr-x 1 jineet jineet    58 Oct 16 10:08 inter1.txt
+-rwxr-xr-x 1 jineet jineet     0 Oct 16 10:08 inter.txt

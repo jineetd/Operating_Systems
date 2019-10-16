@@ -1,0 +1,97 @@
+
+-----------------------
+ls -F 
+	Assignment2/
+	Assignment3/
+	command.log
+	__MACOSX/
+	OS_Assignment/
+	output.log
+	README.md
+	results1.txt*
+	results.txt*
+	user/
+-----------------------
+grep / 
+	Assignment2/
+	Assignment3/
+	__MACOSX/
+	OS_Assignment/
+	user/
+-----------------------
+ls -F 
+	Assignment2/
+	Assignment3/
+	command.log
+	__MACOSX/
+	OS_Assignment/
+	output.log
+	README.md
+	results1.txt*
+	results.txt*
+	user/
+-----------------------
+grep / 
+	Assignment2/
+	Assignment3/
+	__MACOSX/
+	OS_Assignment/
+	user/
+-----------------------
+grep Ass 
+	Assignment2/
+	Assignment3/
+	OS_Assignment/
+	ACOSX/
+	OS_Assignment/
+	output.log
+	README.md
+	results1.txt*
+	results.txt*
+	user/
+-----------------------
+ls -F 
+	Assignment2/
+	Assignment3/
+	command.log
+	__MACOSX/
+	OS_Assignment/
+	output.log
+	README.md
+	results1.txt*
+	results.txt*
+	user/
+-----------------------
+grep Ass 
+	Assignment2/
+	Assignment3/
+	OS_Assignment/
+-----------------------
+grep / 
+	Assignment2/
+	Assignment3/
+	OS_Assignment/
+	ACOSX/
+	OS_Assignment/
+	output.log
+	README.md
+	results1.txt*
+	results.txt*
+	user/
+-----------------------
+ls -F 
+	Assignment2/
+	Assignment3/
+	command.log
+	__MACOSX/
+	OS_Assignment/
+	output.log
+	README.md
+	results1.txt*
+	results.txt*
+	user/
+-----------------------
+grep Ass 
+	Assignment2/
+	Assignment3/
+	OS_Assignment/
